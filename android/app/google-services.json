@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390225431722",
+    "project_id": "audiobook-bb232",
+    "storage_bucket": "audiobook-bb232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390225431722:android:627d8488d7047e1a3214d3",
+        "android_client_info": {
+          "package_name": "com.podsack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390225431722-3ppcdobj7uuiaooc309fr5ck7u6umdpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.podsack",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "390225431722-cjku0gq6ogg3q4a43717cbj8s99pihmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WiMHTtXj9vhyMZLFX0_CDwI1p2_YzNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390225431722-cjku0gq6ogg3q4a43717cbj8s99pihmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
